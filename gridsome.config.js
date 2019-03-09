@@ -1,5 +1,5 @@
 module.exports = {
-  siteName: `Gridsome Starter Blog`,
+  siteName: `www.lab-dev.net`,
   titleTemplate: `%s - Gridsome`,
 
   plugins: [
